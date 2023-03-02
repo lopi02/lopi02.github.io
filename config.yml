@@ -1,10 +1,10 @@
-baseURL: 'lopi02.github.io'
+baseURL: 'https://lopi02.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'lopi02.github.io'
+homepage: 'https://lopi02.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: 
 paginate: 10
